@@ -42,5 +42,5 @@ Construimos **agentes IA conversacionales** que se integran con los sistemas de 
 ### Contacto
 
 - **Web:** [sphyrnasolutions.com](https://sphyrnasolutions.com)
-- **Email:** hola@sphyrnasolutions.com
+- **Email:** info@sphyrnasolutions.com
 - **Ubicación:** Málaga, España
